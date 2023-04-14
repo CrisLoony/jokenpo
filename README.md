@@ -1,2 +1,2 @@
 # projeto-jokenpo
-Jogo Jokenpô
+Jogo de Jokenpô em Python
